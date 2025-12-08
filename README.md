@@ -1,4 +1,4 @@
-# EsReal vURL Public API
+# EsReal vURL Public µAPI
 
 EsReal vURLs are **Verified URLs**: cryptographically protected links
 that point to structured, verifiable data.
