@@ -19,7 +19,7 @@ systems, ...) can:
 
 A vURL looks like this:
 
-    https://esreal.be/v/personalbasic/?obj=f0caa95e-a3d8-4ec4-8a1a-d0f2ab4492cc&datahash=38ce1d6aba06b72bc6c4786a43cba14616d0d2f1d870cc0576bd21bcdfdbd704&ts=1764231029&sig=wGg_aujhz6VjW0TZISAqfyuLU-4ivBvarYSigzpYdeE
+    https://esreal.org/v/personalbasic/?obj=f0caa95e-a3d8-4ec4-8a1a-d0f2ab4492cc&datahash=38ce1d6aba06b72bc6c4786a43cba14616d0d2f1d870cc0576bd21bcdfdbd704&ts=1764231029&sig=wGg_aujhz6VjW0TZISAqfyuLU-4ivBvarYSigzpYdeE
 
 Key ideas:
 
@@ -37,7 +37,7 @@ Key ideas:
 
 ### 2.1 Base pattern
 
-    https://esreal.be/v/{type}/?obj={uuid}&datahash={hex}&ts={timestamp}&sig={signature}
+    https://esreal.org/v/{type}/?obj={uuid}&datahash={hex}&ts={timestamp}&sig={signature}
 
 -   `{type}` = vURL data type.
 -   Required parameters:
