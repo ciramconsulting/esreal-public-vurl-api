@@ -1,5 +1,8 @@
 # EsReal vURL Public µAPI
 
+EsReal Protocol developed by Ciram Consulting BV
+EsReal Protocol Open Source for EsReal ORG
+
 EsReal vURLs are **Verified URLs**: cryptographically protected links
 that point to structured, verifiable data.
 
