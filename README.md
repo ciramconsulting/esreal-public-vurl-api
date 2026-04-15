@@ -107,9 +107,11 @@ Never share vURL data with third parties without explicit user consent
 What is a vURL?	A cryptographically verifiable URL pointing to structured data
 How to use it?	Append `&json=true` and call the URL as a REST endpoint
 When is data trusted?	When all `checks` are `true` and `reliability` is `"100%"`
-Who built this?	Ciram Consulting BV for EsReal BV
 ---
 Contact & support
+
+Who built this?	Ciram Consulting BV for EsReal BV
+
 For questions about this protocol or integration support:
 Ciram Consulting BV
 Developer of the EsReal Protocol
