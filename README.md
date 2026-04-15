@@ -3,6 +3,8 @@
 EsReal Protocol developed by Ciram Consulting BV
 EsReal Protocol Open Source for EsReal ORG
 
+This Protcol is used in products for EsReal BV created by Ciram Consulting BV
+
 EsReal vURLs are **Verified URLs**: cryptographically protected links
 that point to structured, verifiable data.
 
