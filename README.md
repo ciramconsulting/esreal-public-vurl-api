@@ -110,7 +110,7 @@ When is data trusted?	When all `checks` are `true` and `reliability` is `"100%"`
 ---
 Contact & support
 
-Who built this?	Ciram Consulting BV for EsReal BV
+Who built this?	Ciram Consulting BV for EsReal BV and EsReal ORG
 
 For questions about this protocol or integration support:
 Ciram Consulting BV
